@@ -1,4 +1,5 @@
 Yellow
 Green
 Purple
+violet
 These are the rainbow colours.
