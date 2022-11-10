@@ -1,5 +1,6 @@
 Yellow
 Green
 Purple
+unicorn
 violet
-These are the rainbow colours.
+These are the rainbow colours and unicorn.
