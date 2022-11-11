@@ -4,6 +4,7 @@ The Rainbow
 Yellow
 Green
 Purple
+Indigo
 unicorn
 violet
 These are the rainbow colours.
